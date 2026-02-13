@@ -1,6 +1,6 @@
 EMNLP 2025] Official Code for the Paper Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language Models
 
-Models: [Reflection-V-7B]() on HuggingFace
+Models: [Reflection-V-7B](https://huggingface.co/jian0418/ReflectionV-7B-RL) on HuggingFace
 
 ## 📁 Structure
 
